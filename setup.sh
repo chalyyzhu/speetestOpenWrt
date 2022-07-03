@@ -43,5 +43,4 @@ install
 clear
 uninstall
 ;;
-rm setup.sh
 esac
